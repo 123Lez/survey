@@ -134,6 +134,11 @@
                   <p style="margin: 0;">Kind Regards,<br> <span style="color:#F9A800; Calibri, Helvetica, sans-serif;"><strong>Support Team</strong></span></p>
                 </td>
               </tr>
+              <tr>
+                <td style="padding: 20px 30px 10px 30px; color: #F9A800; font-family: Calibri, Helvetica, sans-serif; font-size: 14px; font-weight: 400; line-height: 25px;" bgcolor="#ffffff" align="center">
+                  <p style="margin: 0;"><strong><a style="color:#F9A800;" href="{{url('/home')}}">Go to home</a></strong></p>
+                </td>
+              </tr>
               <!-- BULLETPROOF BUTTON -->
               
             </tbody></table>
