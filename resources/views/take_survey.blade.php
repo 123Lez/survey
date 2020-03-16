@@ -43,7 +43,7 @@
 
 			        <div class="modal-content">
 			            <div class="modal-header">
-			                <h4 class="moda-title">Error</h4>
+			                <h4 class="moda-title"><i class="fa fa-exclamation-triangle" style="color:red;"></i>&nbsp;Error</h4>
 			                <button type="button" class="close" data-dismiss="modal">&times;</button>
 			                
 			            </div>
@@ -65,7 +65,7 @@
 
 			        <div class="modal-content">
 			            <div class="modal-header">
-			                <h4 class="moda-title">Error</h4>
+			                <h4 class="moda-title"><i class="fa fa-exclamation-triangle" style="color:red;"></i>&nbsp;Error</h4>
 			                <button type="button" class="close" data-dismiss="modal">&times;</button>
 			                
 			            </div>
